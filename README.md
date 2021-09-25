@@ -14,7 +14,7 @@ App to predict AirQuality for given climate condition. It is a Machine Learning 
      Reference: https://github.com/krishnaik06/AQI-Project/tree/master/Data/AQI.
      This data containes hourly measurements of AQI.
      This data was converted into a dictionary format where the dictionary key is the year and values are the daily AQI values.
-     Next, the data in step 1 was combined with data of this step to create a new CSV file. 
+     Then, the data in step1 were combined to create a new CSV file. 
   
   3. Cleaning the Data: A new CSV file is created by removing the Null values and improper data.
 
@@ -36,7 +36,7 @@ App to predict AirQuality for given climate condition. It is a Machine Learning 
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Wikipedia](https://en.wikipedia.org/wiki/Air_quality_index)
- - [Data from data from Krish Naik's project](https://github.com/krishnaik06/AQI-Project/tree/master/Data/AQI)
+ - [Data from Krish Naik's project](https://github.com/krishnaik06/AQI-Project/tree/master/Data/AQI)
 -  [Importance of AirQuality](https://www.oxygenconcentratorstore.com/blog/the-air-quality-index-why-is-it-important/)
 -  [images](https://www.freepik.com/free-photos-vectors/air-quality-index)
   
