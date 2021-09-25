@@ -1,8 +1,5 @@
-
-## Screenshots
-
-![App Screenshot](C:\Users\Ranjith\OneDrive\ANJANA\MyDataScienceProjectForResume\AirQualityIndexIndia\AQIDeploymentWebapp\images\AirQualityUnderStanding)
 # AirQualityIndexPrediction
+![AirQualityUnderStanding](https://user-images.githubusercontent.com/53623131/134787469-0a0ab7e4-83aa-496a-880a-e24fc93bfa64.png)
 
 
 App to predict AirQuality for given climate condition
@@ -29,7 +26,8 @@ App to predict AirQuality for given climate condition
      Enter various climate details and then click the Predict button to get the Air Quality Index.
 ## Demo
 
-C:\Users\Ranjith\OneDrive\ANJANA\MyDataScienceProjectForResume\AirQualityIndexIndia\AQIDeploymentWebapp\images\Screenshot 
+![Screenshot ](https://user-images.githubusercontent.com/53623131/134787480-dc1c2e1b-2fb5-41ef-8fd7-dd9e1bf34028.png)
+
 
   
 ## Acknowledgements
