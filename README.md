@@ -1,4 +1,4 @@
-# AirQualityIndexPrediction
+# AirQualityIndexPrediction (Machine Learning App with Flask)
 ![AirQualityUnderStanding](https://user-images.githubusercontent.com/53623131/134787469-0a0ab7e4-83aa-496a-880a-e24fc93bfa64.png)
 ![air-quality-index-with-color-scales-showing-from-good-harzardous_1308-41131](https://user-images.githubusercontent.com/53623131/134787842-516c72c7-9cfe-4bc6-bae9-3949509fc371.jpg)
 
