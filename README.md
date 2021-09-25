@@ -29,7 +29,9 @@ App to predict AirQuality for given climate condition. It is a Machine Learning 
 
 ![Screenshot ](https://user-images.githubusercontent.com/53623131/134787897-042c0e5e-148e-4ef0-98b3-af02b7caa7e1.png)
 
-     Demo: (https://airuqalityindexprediction.herokuapp.com/predict)
+     Demo: (https://airuqalityindexprediction.herokuapp.com/predict )
+     
+     
 
   
 ## Acknowledgements
