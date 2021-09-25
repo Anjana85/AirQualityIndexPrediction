@@ -3,8 +3,8 @@
 ![air-quality-index-with-color-scales-showing-from-good-harzardous_1308-41131](https://user-images.githubusercontent.com/53623131/134787842-516c72c7-9cfe-4bc6-bae9-3949509fc371.jpg)
 
 
-App to predict AirQuality for given climate condition
-(Followed the whole life cycle of DataScience Project)
+App to predict AirQuality for given climate condition. It is a Machine Learning App with Flask.
+(I Followed the whole life cycle of DataScience Project)
 
 
   1. Collect Data: I used webscraping to collect data(climate data from 2013-2015) from 
@@ -27,7 +27,8 @@ App to predict AirQuality for given climate condition
      Enter various climate details and then click the Predict button to get the Air Quality Index.
 ## Demo
 
-![Screenshot ](https://user-images.githubusercontent.com/53623131/134787480-dc1c2e1b-2fb5-41ef-8fd7-dd9e1bf34028.png)
+![Screenshot ](https://user-images.githubusercontent.com/53623131/134787897-042c0e5e-148e-4ef0-98b3-af02b7caa7e1.png)
+
 
 
   
@@ -68,10 +69,13 @@ matplotlib>=1.4.3
 pandas>=0.19
 
   
-## 🚀 About Me
+## 🚀 About Me 
 I Love to work wuth data ...
 The best part about working with data is seeing the impact it can have in an organization. 
 Data can be powerfully objective when properly and thoroughly analyzed- seeing the predictions 
 of intensive analysis lead to meaningful change is extremely rewarding.
+
+Contact: anjana.ps85@gmail.com
+
 
   
