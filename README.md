@@ -37,6 +37,7 @@ App to predict AirQuality for given climate condition
  - [Wikipedia](https://en.wikipedia.org/wiki/Air_quality_index)
  - [Data from data from Krish Naik's project](https://github.com/krishnaik06/AQI-Project/tree/master/Data/AQI)
 -  [Importance of AirQuality](https://www.oxygenconcentratorstore.com/blog/the-air-quality-index-why-is-it-important/)
+-  [images](https://www.freepik.com/free-photos-vectors/air-quality-index)
   
 ## Appendix
 
@@ -44,6 +45,7 @@ Any additional information goes here
 
   1. https://en.tutiempo.net/
   2. https://www.oxygenconcentratorstore.com/blog/the-air-quality-index-why-is-it-important/
+  3. https://www.freepik.com/free-photos-vectors/air-quality-index
 ## Author
 
 - [Anjana Suresh](https://github.com/Anjana85)
