@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<!-- <link rel="stylesheet" type="text/css" href="../static/css/styles.css"> -->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+
+	<header>
+		<div class="container">
+		<div id="brandname">
+			Machine Learning App with Flask
+		</div>
+		<h2>Air Quality Index Prediction</h2>
+		
+	</div>
+	</header>
+
+	<div class="ml-container">
+
+<form action="{{ url_for('predict')}}"method="post">
+    	<input type="text" name="T" placeholder="T" required="required" />
+        <input type="text" name="TM" placeholder="TM" required="required" />
+		<input type="text" name="Tm" placeholder="Tm" required="required" />
+
+        <input type="text" name="SLP" placeholder="SLP" required="required" />
+        <input type="text" name="H" placeholder="H" required="required" />
+		<input type="text" name="VV" placeholder="VV" required="required" />
+        <input type="text" name="V" placeholder="V" required="required" />
+        <input type="text" name="VM" placeholder="VM" required="required" />
+		
+
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+
+   <br>
+   <br>
+   {{ prediction_text }}
+
+ </div>
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+		
