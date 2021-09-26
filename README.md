@@ -25,9 +25,9 @@ App to predict AirQuality for given climate condition. It is a Machine Learning 
      Finally, I used RandomForest to perform predictions.
   5. Deployment of the Model: I used Heroku platform to deploy the model.
      Enter various climate details and then click the Predict button to get the Air Quality Index.
-     Demo: (https://airuqalityindexprediction.herokuapp.com/ )
+     
 ## Demo
-   
+   Demo: (https://airuqalityindexprediction.herokuapp.com/ )
 ![Screenshot ](https://user-images.githubusercontent.com/53623131/134787897-042c0e5e-148e-4ef0-98b3-af02b7caa7e1.png)
 
      
